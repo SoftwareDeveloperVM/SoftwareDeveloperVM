@@ -30,7 +30,6 @@
 [![Nuxt](https://img.shields.io/badge/Nuxt-002E3B?logo=nuxt&logoColor=#00DC82)](#)
 [![Solid](https://img.shields.io/badge/Solid-2C4F7C?logo=solid&logoColor=fff)](#)
 <br>
-[![iOS](https://img.shields.io/badge/iOS-000000?&logo=apple&logoColor=white)](#)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
 [![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0)](#)
 [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
